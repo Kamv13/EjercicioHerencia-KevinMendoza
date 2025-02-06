@@ -10,6 +10,6 @@ namespace EjercicioHerencia_KevinMendoza
     {
         public double? Base {  get; set; }
         public double? Altura { get; set; }
-        public string? tipo { get; set; }
+        public string? Tipo { get; set; }
     }
 }
